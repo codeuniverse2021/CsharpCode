@@ -1,0 +1,13 @@
+C:\Users\Durgesh\source\repos\FuntionUnderstanding_2\FuntionUnderstanding_2\bin\Debug\netcoreapp3.1\FuntionUnderstanding_2.exe
+C:\Users\Durgesh\source\repos\FuntionUnderstanding_2\FuntionUnderstanding_2\bin\Debug\netcoreapp3.1\FuntionUnderstanding_2.deps.json
+C:\Users\Durgesh\source\repos\FuntionUnderstanding_2\FuntionUnderstanding_2\bin\Debug\netcoreapp3.1\FuntionUnderstanding_2.runtimeconfig.json
+C:\Users\Durgesh\source\repos\FuntionUnderstanding_2\FuntionUnderstanding_2\bin\Debug\netcoreapp3.1\FuntionUnderstanding_2.runtimeconfig.dev.json
+C:\Users\Durgesh\source\repos\FuntionUnderstanding_2\FuntionUnderstanding_2\bin\Debug\netcoreapp3.1\FuntionUnderstanding_2.dll
+C:\Users\Durgesh\source\repos\FuntionUnderstanding_2\FuntionUnderstanding_2\bin\Debug\netcoreapp3.1\FuntionUnderstanding_2.pdb
+C:\Users\Durgesh\source\repos\FuntionUnderstanding_2\FuntionUnderstanding_2\obj\Debug\netcoreapp3.1\FuntionUnderstanding_2.csproj.AssemblyReference.cache
+C:\Users\Durgesh\source\repos\FuntionUnderstanding_2\FuntionUnderstanding_2\obj\Debug\netcoreapp3.1\FuntionUnderstanding_2.AssemblyInfoInputs.cache
+C:\Users\Durgesh\source\repos\FuntionUnderstanding_2\FuntionUnderstanding_2\obj\Debug\netcoreapp3.1\FuntionUnderstanding_2.AssemblyInfo.cs
+C:\Users\Durgesh\source\repos\FuntionUnderstanding_2\FuntionUnderstanding_2\obj\Debug\netcoreapp3.1\FuntionUnderstanding_2.csproj.CoreCompileInputs.cache
+C:\Users\Durgesh\source\repos\FuntionUnderstanding_2\FuntionUnderstanding_2\obj\Debug\netcoreapp3.1\FuntionUnderstanding_2.dll
+C:\Users\Durgesh\source\repos\FuntionUnderstanding_2\FuntionUnderstanding_2\obj\Debug\netcoreapp3.1\FuntionUnderstanding_2.pdb
+C:\Users\Durgesh\source\repos\FuntionUnderstanding_2\FuntionUnderstanding_2\obj\Debug\netcoreapp3.1\FuntionUnderstanding_2.genruntimeconfig.cache
